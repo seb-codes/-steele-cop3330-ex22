@@ -3,7 +3,6 @@
  *  Copyright 2021 Sebastian Steele
  */
 package org.example;
-
 import java.util.Scanner;
 
 public class CompareNumbers {
